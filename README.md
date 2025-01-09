@@ -11,7 +11,7 @@ Este projeto é uma implementação simples do clássico jogo da Forca, desenvol
 
 ## Requisitos
 
-- Python 3.6 ou superior.
+- Python 3.
 
 ## Como Executar
 1. Certifique-se de que você tem o Python instalado na sua máquina. Caso não tenha, você pode baixá-lo [aqui](https://www.python.org/downloads/).
